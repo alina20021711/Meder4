@@ -18,9 +18,9 @@ public class Main {
 
 
     }
-//    static void methood(int[]a,String...names) {
-//        for (int i = 0; i < a.length; i++) {
-//            System.out.println(names[i]+"  "+a[i]+"лет");
+    static void methood(int[]a,String...names) {
+        for (int i = 0; i < a.length; i++) {
+            System.out.println(names[i]+"  "+a[i]+"лет");
         }
 
 
